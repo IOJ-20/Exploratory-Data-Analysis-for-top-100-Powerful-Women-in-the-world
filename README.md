@@ -1,4 +1,4 @@
-# Data Cleaning and Dashboard Visualization 
+# Data Cleaning and Dashboard Visualization using Power BI
 - Uploaded and cleaned the dirty raw data for The Powerful Women dataset and visualized my results using Power BI as a visualization tool.
 - The dirty raw data was cleaned on the Power Query editor in Power BI before use.
 - I created a report that would aid a seamless visualization.
